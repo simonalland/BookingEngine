@@ -1,0 +1,6 @@
+# Format for RoomType is Abbreviation: Quantity: Rate: RoomNumberRange
+HotelName: The Portsmouth Hotel
+HotelAbbreviation: PSM
+RoomType: DBL:80:149:1-80
+RoomType: STE:5:249:81-85
+RoomType: PENT:1:699:100-100
