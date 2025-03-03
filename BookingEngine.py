@@ -1,6 +1,5 @@
 # Simon Alland
-# StudentID: 00201094
-# Final Project - Booking Engine
+# Booking Engine
 # This program is a simple hotel booking engine, which has the ability to create and look up reservations, as well as check in and check out guests. 
 # Additionally, hotel configuration is stored in a config file which can be modified from a setup menu.
 # Might need to install pyodbc in case Python is unable to import: pip install pyodbc
